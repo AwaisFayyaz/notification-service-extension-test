@@ -1,4 +1,5 @@
-# notification-service-extension-test
+# A demo project to diagnose an issue with notification service extension in iOS
+
 This is a demo project to test the notification service extension in iOS. 
 
 Sometimes, notification extension is not triggered when a push notification is received. 
